@@ -1,0 +1,20 @@
+2023-08-31 11:23:57,516 : DEBUG - [predict.py:173] - This is a debug log
+2023-08-31 11:23:57,516 : INFO - [predict.py:174] - This is an info log
+2023-08-31 11:23:57,516 : WARNING - [predict.py:175] - This is a warning log
+2023-08-31 11:23:57,516 : ERROR - [predict.py:176] - This is an error log
+2023-08-31 11:23:57,516 : CRITICAL - [predict.py:177] - This is a critical log
+2023-08-31 11:26:43,676 : INFO - [ops.py:619] - xxxxxxxxxxxxxxxxxxxxx---------------------------------
+2023-08-31 11:26:43,804 : INFO - [ops.py:619] - xxxxxxxxxxxxxxxxxxxxx---------------------------------
+2023-08-31 11:27:36,807 : DEBUG - [predict.py:173] - This is a debug log
+2023-08-31 11:27:36,807 : INFO - [predict.py:174] - This is an info log
+2023-08-31 11:27:36,807 : WARNING - [predict.py:175] - This is a warning log
+2023-08-31 11:27:36,807 : ERROR - [predict.py:176] - This is an error log
+2023-08-31 11:27:36,808 : CRITICAL - [predict.py:177] - This is a critical log
+2023-08-31 11:27:37,292 : INFO - [ops.py:619] - xxxxxxxxxxxxxxxxxxxxx---------------------------------
+2023-08-31 11:27:37,426 : INFO - [ops.py:619] - xxxxxxxxxxxxxxxxxxxxx---------------------------------
+2023-08-31 11:28:04,545 : DEBUG - [predict.py:173] - This is a debug log
+2023-08-31 11:28:04,545 : INFO - [predict.py:174] - This is an info log
+2023-08-31 11:28:04,545 : WARNING - [predict.py:175] - This is a warning log
+2023-08-31 11:28:04,545 : ERROR - [predict.py:176] - This is an error log
+2023-08-31 11:28:04,545 : CRITICAL - [predict.py:177] - This is a critical log
+2023-08-31 11:28:18,828 : INFO - [ops.py:619] - xxxxxxxxxxxxxxxxxxxxx---------------------------------
